@@ -9,3 +9,8 @@ https://github.com/YoshuaLALALA/CoR-GS-WATCH-OUT/raw/main/1.wav
 ![](https://github.com/user-attachments/assets/bc18ad94-7116-4cce-bb7f-f124911d8310)
 
 <img src="https://github.com/user-attachments/assets/8a14bde4-1d5e-4ed1-aa0d-3fc6b5883295" width="50%" />
+
+<img src="2.jpg" width="100%" />
+<img src="3.jpg" width="100%" />
+
+
